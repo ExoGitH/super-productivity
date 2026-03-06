@@ -292,7 +292,7 @@
       "DIALOG_SUBMIT_WORKLOG": {
         "PAST_DAY_INFO": "Die vorab ausgefüllte Dauer enthält nicht erfasste Daten vergangener Tage.",
         "TITLE": "Senden Sie die für Issues aufgewendete Zeit an GitLab",
-        "TOTAL_MSG": "Sie werden <em>{{totalTimeToSubmit}}</em> Arbeitszeit für heute insgesamt an <em>{{nrOfTasksToSubmit}</em> verschiedene Aufgaben übermitteln."
+        "TOTAL_MSG": "Sie werden <em>{{totalTimeToSubmit}}</em> Arbeitszeit für heute insgesamt an <em>{{nrOfTasksToSubmit}</em> verschiedene Aufgaben übermitteln.",
         "T_ALREADY_TRACKED": "Bereits erfasst",
         "T_TITLE": "Titel",
         "T_TO_BE_SUBMITTED": "Noch einzureichen",
