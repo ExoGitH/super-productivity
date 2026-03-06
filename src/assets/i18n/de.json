@@ -1760,7 +1760,7 @@
     "S_ERR_INVALID_URL": "Import fehlgeschlagen: Ungültige URL angegeben",
     "S_ERR_NETWORK": "Import fehlgeschlagen: Netzwerkfehler beim Abrufen von Daten von der URL",
     "S_IMPORT_FROM_URL_ERR_DECODE": "Fehler: Die URL-Parameter für den Import konnten nicht dekodiert werden. Bitte stellen Sie sicher, dass sie korrekt formatiert sind.",
-    "URL_PLACEHOLDER": "URL zum Importieren eingeben"
+    "URL_PLACEHOLDER": "URL zum Importieren eingeben",
     "BTN_COMPRESS_ARCHIVE": "Archiv komprimieren"
   },
   "MIGRATE": {
