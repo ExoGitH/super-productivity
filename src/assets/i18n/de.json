@@ -1768,7 +1768,7 @@
     "DIALOG_MESSAGE": "Wir aktualisieren die Speicherung Ihrer Daten, um die Zuverlässigkeit der Synchronisierung zu verbessern. Eine Sicherungskopie wird automatisch heruntergeladen.",
     "STATUS_PREPARING": "Migration wird vorbereitet...",
     "STATUS_BACKUP": "Erstellen einer Sicherungskopie Ihrer Daten...",
-    "STATUS_MIGRATING": "Daten werden migriert...",
+    "STATUS_COMPLETE": "Migration abgeschlossen!",
     "STATUS_COMPLETE": "Migration abgeschlossen!"
     "C_DOWNLOAD_BACKUP": "Möchten Sie eine Sicherungskopie Ihrer alten Daten herunterladen (kann mit älteren Versionen von Super Productivity verwendet werden)?",
     "DETECTED_LEGACY": "Alte Daten erkannt. Wir migrieren sie für Sie!",
